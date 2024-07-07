@@ -1,6 +1,6 @@
 start "" "D:\Google Drive\My Data\C#\Projects\My App\ChongCracker\bin\Debug\ChongCracker.exe" "%cd%"
 
-
+timeout /t 5
 
 @echo off
 REM Trích xuất ngày tháng năm
